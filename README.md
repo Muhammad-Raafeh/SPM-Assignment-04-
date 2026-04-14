@@ -9,3 +9,4 @@
 [SPM-19] Style hero section
 [SPM-20] Make hero responsive
 SPM-22 Choose 3–4 features
+SPM-23 Add icons
