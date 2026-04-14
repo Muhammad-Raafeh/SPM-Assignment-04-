@@ -23,3 +23,4 @@ SPM-33 Make pricing table responsive
 SPM-39 Implement POST method 
 SPM-43 Redirect To thank-you page
 [SPM-45] Add footer layout
+[SPM-47] Add copyright text
