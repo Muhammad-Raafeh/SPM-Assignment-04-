@@ -4,3 +4,4 @@
 [SPM-13] Add Sign Up button
 [SPM-14] Make header responsive
 [SPM-16] Add hero heading and subheading
+[SPM-17] Add CTA button
