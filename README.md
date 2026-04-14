@@ -16,3 +16,4 @@ SPM-26 Make section responsive
 SPM-28 Create 3-tier pricing structure
 SPM-29 Add Basic plan
 SPM-30 Add Pro plan
+SPM-33 Make pricing table responsive
