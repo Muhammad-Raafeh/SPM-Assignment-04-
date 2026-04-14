@@ -7,3 +7,4 @@
 [SPM-17] Add CTA button
 [SPM-18] Add POS mockup image
 [SPM-19] Style hero section
+[SPM-20] Make hero responsive
