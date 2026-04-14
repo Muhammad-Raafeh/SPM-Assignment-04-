@@ -12,3 +12,4 @@ SPM-22 Choose 3–4 features
 SPM-23 Add icons
 SPM-24 Write short descriptions
 SPM-25 Build feature cards
+SPM-26 Make section responsive
