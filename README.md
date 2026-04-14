@@ -19,3 +19,4 @@ SPM-30 Add Pro plan
 SPM-33 Make pricing table responsive
 [SPM-35] Design contact form UI
 [SPM-36] Add name field
+[SPM-38] Add message field
