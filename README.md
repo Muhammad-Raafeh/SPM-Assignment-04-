@@ -13,3 +13,7 @@ SPM-23 Add icons
 SPM-24 Write short descriptions
 SPM-25 Build feature cards
 SPM-26 Make section responsive
+SPM-28 Create 3-tier pricing structure
+SPM-29 Add Basic plan
+SPM-30 Add Pro plan
+SPM-33 Make pricing table responsive
